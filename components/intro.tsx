@@ -67,7 +67,7 @@ export default function Intro() {
         <span className="font-bold">full-stack developer</span> with{" "}
         <span className="font-bold">5 years</span> of experience. I enjoy
         building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">Python (Django/Flask)</span>.
+        <span className="underline">ReactJS/NextJS & Python (Django/Flask)</span>.
       </motion.h1>
 
       <motion.div
@@ -92,7 +92,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/CV.pdf"
+          href="/Resume_Fahad_Rashid.pdf"
           download
         >
           Download CV{" "}
