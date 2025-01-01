@@ -62,17 +62,17 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Analytics Dashboard",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "I worked as a full-stack developer on this startup project. It's a dashboard for analytics on ecommerce stores.",
+    tags: ["React", "Next.js", "Redux", "MySQL", "Tailwind", "RedShift"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
+    title: "TrackHero",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+      "A web app for managing events and reservations for multiple companies",
+    tags: ["Next.js", "Django", "Redux", "PostgreSQL", "AWS", "Celery", "Material-UI", "Python", "TypeScript"],
     imageUrl: rmtdevImg,
   },
   {
