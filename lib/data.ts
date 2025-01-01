@@ -5,6 +5,8 @@ import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
+import trackheroImg from "@/public/trackhero.png";
+import flairImg from "@/public/flair.png";
 
 export const links = [
   {
@@ -81,14 +83,14 @@ export const projectsData = [
     description:
       "A web app for managing events and reservations for multiple companies. I worked as a full-stack engineer on the platform.",
     tags: ["Next.js", "Django", "Redux", "PostgreSQL", "AWS", "Celery", "Material-UI", "Python", "TypeScript"],
-    imageUrl: rmtdevImg,
+    imageUrl: trackheroImg,
   },
   {
     title: "Flair",
     description:
       "Flair is a multifamily technology studio dedicated to building products and services to help you lease more with less. I worked on the backend and frontend of the platform.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+    imageUrl: flairImg,
   },
 ] as const;
 
